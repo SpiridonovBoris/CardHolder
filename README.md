@@ -1,4 +1,4 @@
 # CartHolder
 Modular wrist organizer
 
-![Assambly](https://github.com/SpiridonovBoris/CartHolder/blob/main/Assembly.png)
+![Assambly](https://github.com/SpiridonovBoris/CardHolder/blob/main/Assembly.png)
