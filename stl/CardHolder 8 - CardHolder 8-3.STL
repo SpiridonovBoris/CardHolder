@@ -1,4 +1,4 @@
-solid CardHolder 8 - CardHolder 8-3
+solid CardHolder 8 - CardHolder 8-3-1
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
          vertex 1.190353e+000 1.391025e+001 2.610800e+001
@@ -1107,6 +1107,27 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
+         vertex 4.729863e+000 7.779645e+000 6.894846e+001
+         vertex 4.848348e+000 7.574423e+000 6.905896e+001
+         vertex 5.757341e+000 6.000000e+000 6.810800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 6.810800e+001
+         vertex 4.848348e+000 7.574423e+000 6.905896e+001
+         vertex 4.955439e+000 7.388937e+000 6.920894e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 6.810800e+001
+         vertex 4.955439e+000 7.388937e+000 6.920894e+001
+         vertex 5.047882e+000 7.228822e+000 6.939382e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
          vertex 2.769079e+000 1.117582e+001 6.984497e+001
          vertex 2.824329e+000 1.108013e+001 6.960800e+001
          vertex 2.463773e+000 1.170463e+001 6.810800e+001
@@ -1128,9 +1149,23 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 5.757341e+000 6.000000e+000 7.260800e+001
-         vertex 5.178118e+000 7.003246e+000 7.087103e+001
-         vertex 5.122867e+000 7.098943e+000 7.110800e+001
+         vertex 2.991758e+000 1.079013e+001 6.920894e+001
+         vertex 3.098847e+000 1.060465e+001 6.905896e+001
+         vertex 2.463773e+000 1.170463e+001 6.810800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 2.463773e+000 1.170463e+001 6.810800e+001
+         vertex 3.098847e+000 1.060465e+001 6.905896e+001
+         vertex 3.217334e+000 1.039942e+001 6.894846e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 2.463773e+000 1.170463e+001 6.810800e+001
+         vertex 3.217334e+000 1.039942e+001 6.894846e+001
+         vertex 3.343612e+000 1.018070e+001 6.888079e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
@@ -1156,23 +1191,100 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 5.178118e+000 7.003246e+000 7.087103e+001
-         vertex 5.757341e+000 6.000000e+000 7.260800e+001
-         vertex 5.211955e+000 6.944640e+000 7.061847e+001
+         vertex 3.343612e+000 1.018070e+001 6.888079e+001
+         vertex 3.473848e+000 9.955127e+000 6.885799e+001
+         vertex 2.463773e+000 1.170463e+001 6.810800e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 5.211955e+000 6.944640e+000 7.061847e+001
-         vertex 5.757341e+000 6.000000e+000 7.260800e+001
+         vertex 2.463773e+000 1.170463e+001 6.810800e+001
+         vertex 3.473848e+000 9.955127e+000 6.885799e+001
+         vertex 4.473349e+000 8.223943e+000 6.885799e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 2.463773e+000 1.170463e+001 6.810800e+001
+         vertex 4.473349e+000 8.223943e+000 6.885799e+001
+         vertex 5.757341e+000 6.000000e+000 6.810800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 6.810800e+001
+         vertex 4.473349e+000 8.223943e+000 6.885799e+001
+         vertex 4.603585e+000 7.998367e+000 6.888079e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 6.810800e+001
+         vertex 4.603585e+000 7.998367e+000 6.888079e+001
+         vertex 4.729863e+000 7.779645e+000 6.894846e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.211955e+000 6.944640e+000 7.009753e+001
+         vertex 5.757341e+000 6.000000e+000 7.035800e+001
+         vertex 5.178118e+000 7.003246e+000 6.984497e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.178118e+000 7.003246e+000 6.984497e+001
+         vertex 5.757341e+000 6.000000e+000 7.035800e+001
+         vertex 5.757341e+000 6.000000e+000 6.810800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.178118e+000 7.003246e+000 6.984497e+001
+         vertex 5.757341e+000 6.000000e+000 6.810800e+001
+         vertex 5.122867e+000 7.098943e+000 6.960800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.122867e+000 7.098943e+000 6.960800e+001
+         vertex 5.757341e+000 6.000000e+000 6.810800e+001
+         vertex 5.047882e+000 7.228822e+000 6.939382e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.211955e+000 6.944640e+000 7.009753e+001
+         vertex 5.223349e+000 6.924904e+000 7.035800e+001
          vertex 5.757341e+000 6.000000e+000 7.035800e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 5.211955e+000 6.944640e+000 7.061847e+001
          vertex 5.757341e+000 6.000000e+000 7.035800e+001
          vertex 5.223349e+000 6.924904e+000 7.035800e+001
+         vertex 5.211955e+000 6.944640e+000 7.061847e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 7.035800e+001
+         vertex 5.211955e+000 6.944640e+000 7.061847e+001
+         vertex 5.757341e+000 6.000000e+000 7.260800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 7.260800e+001
+         vertex 5.211955e+000 6.944640e+000 7.061847e+001
+         vertex 5.178118e+000 7.003246e+000 7.087103e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 7.260800e+001
+         vertex 5.178118e+000 7.003246e+000 7.087103e+001
+         vertex 5.122867e+000 7.098943e+000 7.110800e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
@@ -1215,27 +1327,6 @@ solid CardHolder 8 - CardHolder 8-3
          vertex 2.463773e+000 1.170463e+001 7.260800e+001
          vertex 2.899315e+000 1.095025e+001 7.132218e+001
          vertex 2.824329e+000 1.108013e+001 7.110800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 4.729863e+000 7.779645e+000 6.894846e+001
-         vertex 4.848348e+000 7.574423e+000 6.905896e+001
-         vertex 5.757341e+000 6.000000e+000 6.810800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 6.810800e+001
-         vertex 4.848348e+000 7.574423e+000 6.905896e+001
-         vertex 4.955439e+000 7.388937e+000 6.920894e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 6.810800e+001
-         vertex 4.955439e+000 7.388937e+000 6.920894e+001
-         vertex 5.047882e+000 7.228822e+000 6.939382e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
@@ -1278,62 +1369,6 @@ solid CardHolder 8 - CardHolder 8-3
          vertex 2.463773e+000 1.170463e+001 7.260800e+001
          vertex 2.735242e+000 1.123443e+001 7.061847e+001
          vertex 2.723848e+000 1.125417e+001 7.035800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 2.991758e+000 1.079013e+001 6.920894e+001
-         vertex 3.098847e+000 1.060465e+001 6.905896e+001
-         vertex 2.463773e+000 1.170463e+001 6.810800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 2.463773e+000 1.170463e+001 6.810800e+001
-         vertex 3.098847e+000 1.060465e+001 6.905896e+001
-         vertex 3.217334e+000 1.039942e+001 6.894846e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 2.463773e+000 1.170463e+001 6.810800e+001
-         vertex 3.217334e+000 1.039942e+001 6.894846e+001
-         vertex 3.343612e+000 1.018070e+001 6.888079e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.047882e+000 7.228822e+000 6.939382e+001
-         vertex 5.122867e+000 7.098943e+000 6.960800e+001
-         vertex 5.757341e+000 6.000000e+000 6.810800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 6.810800e+001
-         vertex 5.122867e+000 7.098943e+000 6.960800e+001
-         vertex 5.178118e+000 7.003246e+000 6.984497e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 6.810800e+001
-         vertex 5.178118e+000 7.003246e+000 6.984497e+001
-         vertex 5.757341e+000 6.000000e+000 7.035800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 7.035800e+001
-         vertex 5.178118e+000 7.003246e+000 6.984497e+001
-         vertex 5.211955e+000 6.944640e+000 7.009753e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 7.035800e+001
-         vertex 5.211955e+000 6.944640e+000 7.009753e+001
-         vertex 5.223349e+000 6.924904e+000 7.035800e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
@@ -1401,41 +1436,6 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 3.343612e+000 1.018070e+001 6.888079e+001
-         vertex 3.473848e+000 9.955127e+000 6.885799e+001
-         vertex 2.463773e+000 1.170463e+001 6.810800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 2.463773e+000 1.170463e+001 6.810800e+001
-         vertex 3.473848e+000 9.955127e+000 6.885799e+001
-         vertex 4.473349e+000 8.223943e+000 6.885799e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 2.463773e+000 1.170463e+001 6.810800e+001
-         vertex 4.473349e+000 8.223943e+000 6.885799e+001
-         vertex 5.757341e+000 6.000000e+000 6.810800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 6.810800e+001
-         vertex 4.473349e+000 8.223943e+000 6.885799e+001
-         vertex 4.603585e+000 7.998367e+000 6.888079e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 6.810800e+001
-         vertex 4.603585e+000 7.998367e+000 6.888079e+001
-         vertex 4.729863e+000 7.779645e+000 6.894846e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
          vertex 2.991758e+000 1.079013e+001 5.520893e+001
          vertex 3.098847e+000 1.060465e+001 5.505896e+001
          vertex 2.463773e+000 1.170463e+001 5.410800e+001
@@ -1460,6 +1460,27 @@ solid CardHolder 8 - CardHolder 8-3
          vertex 3.343612e+000 1.018070e+001 5.783521e+001
          vertex 3.217334e+000 1.039942e+001 5.776754e+001
          vertex 2.463773e+000 1.170463e+001 5.860800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 4.473349e+000 8.223943e+000 5.485800e+001
+         vertex 4.603585e+000 7.998367e+000 5.488079e+001
+         vertex 5.757341e+000 6.000000e+000 5.410800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 5.410800e+001
+         vertex 4.603585e+000 7.998367e+000 5.488079e+001
+         vertex 4.729863e+000 7.779645e+000 5.494846e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 5.410800e+001
+         vertex 4.729863e+000 7.779645e+000 5.494846e+001
+         vertex 4.848348e+000 7.574423e+000 5.505896e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
@@ -1499,44 +1520,23 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 4.473349e+000 8.223943e+000 5.485800e+001
-         vertex 4.603585e+000 7.998367e+000 5.488079e+001
-         vertex 5.757341e+000 6.000000e+000 5.410800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 5.410800e+001
-         vertex 4.603585e+000 7.998367e+000 5.488079e+001
-         vertex 4.729863e+000 7.779645e+000 5.494846e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 5.410800e+001
-         vertex 4.729863e+000 7.779645e+000 5.494846e+001
          vertex 4.848348e+000 7.574423e+000 5.505896e+001
+         vertex 4.955439e+000 7.388937e+000 5.520893e+001
+         vertex 5.757341e+000 6.000000e+000 5.410800e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 3.098847e+000 1.060465e+001 5.505896e+001
-         vertex 3.217334e+000 1.039942e+001 5.494846e+001
-         vertex 2.463773e+000 1.170463e+001 5.410800e+001
+         vertex 5.757341e+000 6.000000e+000 5.410800e+001
+         vertex 4.955439e+000 7.388937e+000 5.520893e+001
+         vertex 5.047882e+000 7.228822e+000 5.539382e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 2.463773e+000 1.170463e+001 5.410800e+001
-         vertex 3.217334e+000 1.039942e+001 5.494846e+001
-         vertex 3.343612e+000 1.018070e+001 5.488079e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 2.463773e+000 1.170463e+001 5.410800e+001
-         vertex 3.343612e+000 1.018070e+001 5.488079e+001
-         vertex 3.473848e+000 9.955127e+000 5.485800e+001
+         vertex 5.757341e+000 6.000000e+000 5.410800e+001
+         vertex 5.047882e+000 7.228822e+000 5.539382e+001
+         vertex 5.122867e+000 7.098943e+000 5.560800e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
@@ -1625,6 +1625,62 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
+         vertex 3.098847e+000 1.060465e+001 5.505896e+001
+         vertex 3.217334e+000 1.039942e+001 5.494846e+001
+         vertex 2.463773e+000 1.170463e+001 5.410800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 2.463773e+000 1.170463e+001 5.410800e+001
+         vertex 3.217334e+000 1.039942e+001 5.494846e+001
+         vertex 3.343612e+000 1.018070e+001 5.488079e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 2.463773e+000 1.170463e+001 5.410800e+001
+         vertex 3.343612e+000 1.018070e+001 5.488079e+001
+         vertex 3.473848e+000 9.955127e+000 5.485800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.122867e+000 7.098943e+000 5.560800e+001
+         vertex 5.178118e+000 7.003246e+000 5.584497e+001
+         vertex 5.757341e+000 6.000000e+000 5.410800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 5.410800e+001
+         vertex 5.178118e+000 7.003246e+000 5.584497e+001
+         vertex 5.211955e+000 6.944640e+000 5.609753e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 5.410800e+001
+         vertex 5.211955e+000 6.944640e+000 5.609753e+001
+         vertex 5.757341e+000 6.000000e+000 5.860800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 5.860800e+001
+         vertex 5.211955e+000 6.944640e+000 5.609753e+001
+         vertex 5.223349e+000 6.924904e+000 5.635800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 5.860800e+001
+         vertex 5.223349e+000 6.924904e+000 5.635800e+001
+         vertex 5.211955e+000 6.944640e+000 5.661847e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
          vertex 3.473848e+000 9.955127e+000 5.485800e+001
          vertex 4.473349e+000 8.223943e+000 5.485800e+001
          vertex 2.463773e+000 1.170463e+001 5.410800e+001
@@ -1660,27 +1716,6 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 4.848348e+000 7.574423e+000 5.505896e+001
-         vertex 4.955439e+000 7.388937e+000 5.520893e+001
-         vertex 5.757341e+000 6.000000e+000 5.410800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 5.410800e+001
-         vertex 4.955439e+000 7.388937e+000 5.520893e+001
-         vertex 5.047882e+000 7.228822e+000 5.539382e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 5.410800e+001
-         vertex 5.047882e+000 7.228822e+000 5.539382e+001
-         vertex 5.122867e+000 7.098943e+000 5.560800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
          vertex 5.211955e+000 6.944640e+000 5.661847e+001
          vertex 5.178118e+000 7.003246e+000 5.687103e+001
          vertex 5.757341e+000 6.000000e+000 5.860800e+001
@@ -1698,41 +1733,6 @@ solid CardHolder 8 - CardHolder 8-3
          vertex 5.757341e+000 6.000000e+000 5.860800e+001
          vertex 5.122867e+000 7.098943e+000 5.710800e+001
          vertex 5.047882e+000 7.228822e+000 5.732218e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.122867e+000 7.098943e+000 5.560800e+001
-         vertex 5.178118e+000 7.003246e+000 5.584497e+001
-         vertex 5.757341e+000 6.000000e+000 5.410800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 5.410800e+001
-         vertex 5.178118e+000 7.003246e+000 5.584497e+001
-         vertex 5.211955e+000 6.944640e+000 5.609753e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 5.410800e+001
-         vertex 5.211955e+000 6.944640e+000 5.609753e+001
-         vertex 5.757341e+000 6.000000e+000 5.860800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 5.860800e+001
-         vertex 5.211955e+000 6.944640e+000 5.609753e+001
-         vertex 5.223349e+000 6.924904e+000 5.635800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 5.860800e+001
-         vertex 5.223349e+000 6.924904e+000 5.635800e+001
-         vertex 5.211955e+000 6.944640e+000 5.661847e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
@@ -1807,6 +1807,13 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
+         vertex 5.223349e+000 6.924904e+000 2.835800e+001
+         vertex 5.211955e+000 6.944640e+000 2.861847e+001
+         vertex 5.757341e+000 6.000000e+000 2.835800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
          vertex 2.735242e+000 1.123443e+001 2.809753e+001
          vertex 2.769079e+000 1.117582e+001 2.784497e+001
          vertex 2.463773e+000 1.170463e+001 2.610800e+001
@@ -1831,48 +1838,6 @@ solid CardHolder 8 - CardHolder 8-3
          vertex 2.463773e+000 1.170463e+001 2.610800e+001
          vertex 2.723848e+000 1.125417e+001 2.835800e+001
          vertex 2.735242e+000 1.123443e+001 2.809753e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 4.729863e+000 7.779645e+000 2.694846e+001
-         vertex 4.848348e+000 7.574423e+000 2.705896e+001
-         vertex 5.757341e+000 6.000000e+000 2.610800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.211955e+000 6.944640e+000 2.809753e+001
-         vertex 5.757341e+000 6.000000e+000 2.835800e+001
-         vertex 5.178118e+000 7.003246e+000 2.784497e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.178118e+000 7.003246e+000 2.784497e+001
-         vertex 5.757341e+000 6.000000e+000 2.835800e+001
-         vertex 5.757341e+000 6.000000e+000 2.610800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.178118e+000 7.003246e+000 2.784497e+001
-         vertex 5.757341e+000 6.000000e+000 2.610800e+001
-         vertex 5.122867e+000 7.098943e+000 2.760800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.211955e+000 6.944640e+000 2.809753e+001
-         vertex 5.223349e+000 6.924904e+000 2.835800e+001
-         vertex 5.757341e+000 6.000000e+000 2.835800e+001
-      endloop
-   endfacet
-   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.757341e+000 6.000000e+000 2.835800e+001
-         vertex 5.223349e+000 6.924904e+000 2.835800e+001
-         vertex 5.211955e+000 6.944640e+000 2.861847e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
@@ -1919,9 +1884,16 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
+         vertex 4.729863e+000 7.779645e+000 2.694846e+001
+         vertex 4.848348e+000 7.574423e+000 2.705896e+001
+         vertex 5.757341e+000 6.000000e+000 2.610800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 2.610800e+001
          vertex 4.848348e+000 7.574423e+000 2.705896e+001
          vertex 4.955439e+000 7.388937e+000 2.720893e+001
-         vertex 5.757341e+000 6.000000e+000 2.610800e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
@@ -1933,9 +1905,37 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 5.757341e+000 6.000000e+000 2.610800e+001
          vertex 5.047882e+000 7.228822e+000 2.739382e+001
          vertex 5.122867e+000 7.098943e+000 2.760800e+001
+         vertex 5.757341e+000 6.000000e+000 2.610800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 2.610800e+001
+         vertex 5.122867e+000 7.098943e+000 2.760800e+001
+         vertex 5.178118e+000 7.003246e+000 2.784497e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 2.610800e+001
+         vertex 5.178118e+000 7.003246e+000 2.784497e+001
+         vertex 5.757341e+000 6.000000e+000 2.835800e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 2.835800e+001
+         vertex 5.178118e+000 7.003246e+000 2.784497e+001
+         vertex 5.211955e+000 6.944640e+000 2.809753e+001
+      endloop
+   endfacet
+   facet normal 8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.757341e+000 6.000000e+000 2.835800e+001
+         vertex 5.211955e+000 6.944640e+000 2.809753e+001
+         vertex 5.223349e+000 6.924904e+000 2.835800e+001
       endloop
    endfacet
    facet normal 8.660254e-001 5.000000e-001 0.000000e+000
@@ -14358,30 +14358,16 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal -8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 6.274560e+001 1.117582e+001 4.184497e+001
-         vertex 6.277944e+001 1.123443e+001 4.209753e+001
+         vertex 6.241584e+001 1.060465e+001 4.105896e+001
+         vertex 6.252293e+001 1.079013e+001 4.120893e+001
          vertex 6.305091e+001 1.170463e+001 4.010800e+001
       endloop
    endfacet
    facet normal -8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 6.241584e+001 1.060465e+001 4.365704e+001
-         vertex 6.136098e+001 8.777596e+000 4.535800e+001
-         vertex 6.252293e+001 1.079013e+001 4.350706e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 6.252293e+001 1.079013e+001 4.350706e+001
-         vertex 6.136098e+001 8.777596e+000 4.535800e+001
-         vertex 6.305091e+001 1.170463e+001 4.535800e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 6.252293e+001 1.079013e+001 4.350706e+001
-         vertex 6.305091e+001 1.170463e+001 4.535800e+001
-         vertex 6.261536e+001 1.095025e+001 4.332218e+001
+         vertex 6.305091e+001 1.170463e+001 4.010800e+001
+         vertex 6.252293e+001 1.079013e+001 4.120893e+001
+         vertex 6.261536e+001 1.095025e+001 4.139382e+001
       endloop
    endfacet
    facet normal -8.660254e-001 5.000000e-001 0.000000e+000
@@ -14400,9 +14386,23 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal -8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 6.274560e+001 1.117582e+001 4.184497e+001
+         vertex 6.261536e+001 1.095025e+001 4.139382e+001
+         vertex 6.269035e+001 1.108013e+001 4.160800e+001
+         vertex 6.305091e+001 1.170463e+001 4.010800e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
          vertex 6.305091e+001 1.170463e+001 4.010800e+001
          vertex 6.269035e+001 1.108013e+001 4.160800e+001
+         vertex 6.274560e+001 1.117582e+001 4.184497e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 6.305091e+001 1.170463e+001 4.010800e+001
+         vertex 6.274560e+001 1.117582e+001 4.184497e+001
+         vertex 6.277944e+001 1.123443e+001 4.209753e+001
       endloop
    endfacet
    facet normal -8.660254e-001 5.000000e-001 0.000000e+000
@@ -14414,9 +14414,9 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal -8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
+         vertex 6.305091e+001 1.170463e+001 4.535800e+001
          vertex 6.277944e+001 1.123443e+001 4.261847e+001
          vertex 6.274560e+001 1.117582e+001 4.287103e+001
-         vertex 6.305091e+001 1.170463e+001 4.535800e+001
       endloop
    endfacet
    facet normal -8.660254e-001 5.000000e-001 0.000000e+000
@@ -14424,104 +14424,6 @@ solid CardHolder 8 - CardHolder 8-3
          vertex 6.305091e+001 1.170463e+001 4.535800e+001
          vertex 6.274560e+001 1.117582e+001 4.287103e+001
          vertex 6.269035e+001 1.108013e+001 4.310800e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 6.305091e+001 1.170463e+001 4.535800e+001
-         vertex 6.269035e+001 1.108013e+001 4.310800e+001
-         vertex 6.261536e+001 1.095025e+001 4.332218e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 6.078482e+001 7.779645e+000 4.376754e+001
-         vertex 6.066634e+001 7.574423e+000 4.365704e+001
-         vertex 6.136098e+001 8.777596e+000 4.535800e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 6.136098e+001 8.777596e+000 4.535800e+001
-         vertex 6.066634e+001 7.574423e+000 4.365704e+001
-         vertex 6.055924e+001 7.388937e+000 4.350706e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 6.136098e+001 8.777596e+000 4.535800e+001
-         vertex 6.055924e+001 7.388937e+000 4.350706e+001
-         vertex 5.975734e+001 6.000000e+000 4.235800e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.975734e+001 6.000000e+000 4.235800e+001
-         vertex 6.055924e+001 7.388937e+000 4.350706e+001
-         vertex 6.046680e+001 7.228822e+000 4.332218e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.975734e+001 6.000000e+000 4.235800e+001
-         vertex 6.046680e+001 7.228822e+000 4.332218e+001
-         vertex 6.039182e+001 7.098943e+000 4.310800e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 6.030273e+001 6.944640e+000 4.261847e+001
-         vertex 6.029134e+001 6.924904e+000 4.235800e+001
-         vertex 5.975734e+001 6.000000e+000 4.235800e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.975734e+001 6.000000e+000 4.235800e+001
-         vertex 6.029134e+001 6.924904e+000 4.235800e+001
-         vertex 6.030273e+001 6.944640e+000 4.209753e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.975734e+001 6.000000e+000 4.235800e+001
-         vertex 6.030273e+001 6.944640e+000 4.209753e+001
-         vertex 5.975734e+001 6.000000e+000 4.010800e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.975734e+001 6.000000e+000 4.010800e+001
-         vertex 6.030273e+001 6.944640e+000 4.209753e+001
-         vertex 6.033657e+001 7.003246e+000 4.184497e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 5.975734e+001 6.000000e+000 4.010800e+001
-         vertex 6.033657e+001 7.003246e+000 4.184497e+001
-         vertex 6.039182e+001 7.098943e+000 4.160800e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 6.204084e+001 9.955127e+000 4.085800e+001
-         vertex 6.217107e+001 1.018070e+001 4.088079e+001
-         vertex 6.305091e+001 1.170463e+001 4.010800e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 6.305091e+001 1.170463e+001 4.010800e+001
-         vertex 6.217107e+001 1.018070e+001 4.088079e+001
-         vertex 6.229735e+001 1.039942e+001 4.094846e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 6.305091e+001 1.170463e+001 4.010800e+001
-         vertex 6.229735e+001 1.039942e+001 4.094846e+001
-         vertex 6.241584e+001 1.060465e+001 4.105896e+001
       endloop
    endfacet
    facet normal -8.660254e-001 5.000000e-001 0.000000e+000
@@ -14568,6 +14470,69 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal -8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
+         vertex 6.269035e+001 1.108013e+001 4.310800e+001
+         vertex 6.261536e+001 1.095025e+001 4.332218e+001
+         vertex 6.305091e+001 1.170463e+001 4.535800e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 6.305091e+001 1.170463e+001 4.535800e+001
+         vertex 6.261536e+001 1.095025e+001 4.332218e+001
+         vertex 6.252293e+001 1.079013e+001 4.350706e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 6.305091e+001 1.170463e+001 4.535800e+001
+         vertex 6.252293e+001 1.079013e+001 4.350706e+001
+         vertex 6.136098e+001 8.777596e+000 4.535800e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 6.136098e+001 8.777596e+000 4.535800e+001
+         vertex 6.252293e+001 1.079013e+001 4.350706e+001
+         vertex 6.241584e+001 1.060465e+001 4.365704e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 6.078482e+001 7.779645e+000 4.376754e+001
+         vertex 6.066634e+001 7.574423e+000 4.365704e+001
+         vertex 6.136098e+001 8.777596e+000 4.535800e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 6.136098e+001 8.777596e+000 4.535800e+001
+         vertex 6.066634e+001 7.574423e+000 4.365704e+001
+         vertex 6.055924e+001 7.388937e+000 4.350706e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 6.136098e+001 8.777596e+000 4.535800e+001
+         vertex 6.055924e+001 7.388937e+000 4.350706e+001
+         vertex 5.975734e+001 6.000000e+000 4.235800e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.975734e+001 6.000000e+000 4.235800e+001
+         vertex 6.055924e+001 7.388937e+000 4.350706e+001
+         vertex 6.046680e+001 7.228822e+000 4.332218e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.975734e+001 6.000000e+000 4.235800e+001
+         vertex 6.046680e+001 7.228822e+000 4.332218e+001
+         vertex 6.039182e+001 7.098943e+000 4.310800e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
          vertex 6.241584e+001 1.060465e+001 4.365704e+001
          vertex 6.229735e+001 1.039942e+001 4.376754e+001
          vertex 6.136098e+001 8.777596e+000 4.535800e+001
@@ -14585,6 +14550,41 @@ solid CardHolder 8 - CardHolder 8-3
          vertex 6.136098e+001 8.777596e+000 4.535800e+001
          vertex 6.217107e+001 1.018070e+001 4.383521e+001
          vertex 6.204084e+001 9.955127e+000 4.385800e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 6.030273e+001 6.944640e+000 4.261847e+001
+         vertex 6.029134e+001 6.924904e+000 4.235800e+001
+         vertex 5.975734e+001 6.000000e+000 4.235800e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.975734e+001 6.000000e+000 4.235800e+001
+         vertex 6.029134e+001 6.924904e+000 4.235800e+001
+         vertex 6.030273e+001 6.944640e+000 4.209753e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.975734e+001 6.000000e+000 4.235800e+001
+         vertex 6.030273e+001 6.944640e+000 4.209753e+001
+         vertex 5.975734e+001 6.000000e+000 4.010800e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.975734e+001 6.000000e+000 4.010800e+001
+         vertex 6.030273e+001 6.944640e+000 4.209753e+001
+         vertex 6.033657e+001 7.003246e+000 4.184497e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 5.975734e+001 6.000000e+000 4.010800e+001
+         vertex 6.033657e+001 7.003246e+000 4.184497e+001
+         vertex 6.039182e+001 7.098943e+000 4.160800e+001
       endloop
    endfacet
    facet normal -8.660254e-001 5.000000e-001 0.000000e+000
@@ -14610,27 +14610,6 @@ solid CardHolder 8 - CardHolder 8-3
    endfacet
    facet normal -8.660254e-001 5.000000e-001 0.000000e+000
       outer loop
-         vertex 6.241584e+001 1.060465e+001 4.105896e+001
-         vertex 6.252293e+001 1.079013e+001 4.120893e+001
-         vertex 6.305091e+001 1.170463e+001 4.010800e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 6.305091e+001 1.170463e+001 4.010800e+001
-         vertex 6.252293e+001 1.079013e+001 4.120893e+001
-         vertex 6.261536e+001 1.095025e+001 4.139382e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
-         vertex 6.305091e+001 1.170463e+001 4.010800e+001
-         vertex 6.261536e+001 1.095025e+001 4.139382e+001
-         vertex 6.269035e+001 1.108013e+001 4.160800e+001
-      endloop
-   endfacet
-   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
-      outer loop
          vertex 6.204084e+001 9.955127e+000 4.385800e+001
          vertex 6.104133e+001 8.223943e+000 4.385800e+001
          vertex 6.136098e+001 8.777596e+000 4.535800e+001
@@ -14648,6 +14627,27 @@ solid CardHolder 8 - CardHolder 8-3
          vertex 6.136098e+001 8.777596e+000 4.535800e+001
          vertex 6.091110e+001 7.998367e+000 4.383521e+001
          vertex 6.078482e+001 7.779645e+000 4.376754e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 6.204084e+001 9.955127e+000 4.085800e+001
+         vertex 6.217107e+001 1.018070e+001 4.088079e+001
+         vertex 6.305091e+001 1.170463e+001 4.010800e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 6.305091e+001 1.170463e+001 4.010800e+001
+         vertex 6.217107e+001 1.018070e+001 4.088079e+001
+         vertex 6.229735e+001 1.039942e+001 4.094846e+001
+      endloop
+   endfacet
+   facet normal -8.660254e-001 5.000000e-001 0.000000e+000
+      outer loop
+         vertex 6.305091e+001 1.170463e+001 4.010800e+001
+         vertex 6.229735e+001 1.039942e+001 4.094846e+001
+         vertex 6.241584e+001 1.060465e+001 4.105896e+001
       endloop
    endfacet
    facet normal -8.660254e-001 5.000000e-001 0.000000e+000
